@@ -19,7 +19,7 @@ echo.
 echo    ╔════════════════════╗
 echo    ║  COMMANDS:         ║
 echo    ║                    ║
-echo    ║  1. List Users     ║
+echo    ║  1. List MEATS     ║
 echo    ║  2. Bruteforce     ║
 echo    ║  3. Exit           ║
 echo    ╚════════════════════╝
